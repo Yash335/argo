@@ -4,6 +4,6 @@ kind: Kustomization
 namespace: stage
 images:
   - name: nginx
-    newTag: 1.23
+    newTag: 1.25
 namePrefix: stage-
 
