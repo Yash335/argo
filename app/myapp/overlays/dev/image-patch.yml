@@ -7,5 +7,5 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: docker.io/yash335/myapp:latest
+          image: docker.io/yash335/devops-task
 
